@@ -1,0 +1,13 @@
+[
+    {
+        "sourceBaseURL":"https://raw.githubusercontent.com/",
+        "sourceRelativeURL":"alifnrzm/Price-Catcher/main/lookup_premise.csv",
+        "sinkFileName":"lookup_premise.csv"
+    },
+    {
+        "sourceBaseURL":"https://raw.githubusercontent.com/",
+        "sourceRelativeURL":"alifnrzm/Price-Catcher/main/lookup_item.csv",
+        "sinkFileName":"lookup_item.csv"
+    }
+   
+]
