@@ -80,6 +80,12 @@ GO
  
 Then a pipeline was created to to load the data in SQL database before connecting the server to PowerBI.
 
+![SQL](https://github.com/alifnrzm/Price-Catcher/blob/main/Pics/SQLprocess.JPG)
+
+Now all the ETL process are done we will move on to data visualisation to PowerBI. Before that refer below for the entire ADF overview
+
+![ADF](https://github.com/alifnrzm/Price-Catcher/blob/main/Pics/ADF.JPG)
+
 # PowerBI
 
 A Dashboard was created to showcased the price change thorugh a date and map with bubbles representing average price for each state in Malaysia. The price is displayed in average, minumum and maximum.
