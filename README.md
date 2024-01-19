@@ -93,8 +93,8 @@ Slicers were added for the user to pick the item in order to show the prices.
 
 ![PBID](https://github.com/alifnrzm/Price-Catcher/blob/main/Pics/PBIDefault.JPG)
 
-For example, let say the user picked, 'Barangan Segar' in the first level. In the second level, 'Ayam' Category is picked. In the third level, 'Ayam Bersih - Standard' is picked. Then the user filtered to show only those from 'Pasar Basah' premise within on month in December.
-The Dashboard will then show The price change within the month, average prices of each state for that month, And the visual minimum, maximum and average price for The whole country.
+For example, let say the user picked, 'Barangan Segar' in the first level. In the second level, 'Ayam' Category is picked. In the third level, 'Ayam Bersih - Standard' is picked. Then the user filtered to show only those from 'Pasar Basah' premise within one month in December.
+The Dashboard will then show the price change within the month, average prices of each state for that month, the visual minimum, maximum and average price for the whole country.
 
 ![PBI](https://github.com/alifnrzm/Price-Catcher/blob/main/Pics/PBI.JPG)
  
