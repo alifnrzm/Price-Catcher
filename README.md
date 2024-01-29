@@ -9,6 +9,14 @@ Please refer the architecture flow below as we dive into the project where we wi
 
 ![Architecture](https://github.com/alifnrzm/Price-Catcher/blob/main/Pics/ArchitectFlow.jpg)
 
+# Computing Power
+
+For computing power, the serice tier selected for this project is the standard tier. This comes with a minimum of 10 database transaction unit (DTU) to calculate and bunvle the compute cost. Since this project does not require a large amount of data to be read and write, this is a viable option although there are higher tier available but it comes with the cost. While the data max size is 10 gb considering we have a full year of price data which can be large after processing. Hence the estimated cost for this comes down to 14.72USD which fall within the busget range. 
+
+# Cost
+
+The cost for running the resource group as a whole is at 33.75USD. For a personal project with limited amount of credit available, this is reasonable.
+
 # Data Ingestion 
 The datasets are ingested using two ways, using a http connector to ingest the lookup datas and blob storage from local storage. It is then stored into Azure Data Lake Gen2 (ADLS) through copy activity. 
 
