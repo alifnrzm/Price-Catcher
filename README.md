@@ -11,7 +11,7 @@ Please refer the architecture flow below as we dive into the project where we wi
 
 # Computing Power
 
-For computing power, the serice tier selected for this project is the standard tier. This comes with a minimum of 10 database transaction unit (DTU) to calculate and bunvle the compute cost. Since this project does not require a large amount of data to be read and write, this is a viable option although there are higher tier available but it comes with the cost. While the data max size is 10 gb considering we have a full year of price data which can be large after processing. Hence the estimated cost for this comes down to 14.72USD which fall within the busget range. 
+For computing power, the serice tier selected for this project is the standard tier. This comes with a minimum of 10 database transaction unit (DTU) to calculate and bunvle the compute cost. Since this project does not require a large amount of data to be read and write, this is a viable option although there are higher tier available but it comes with the cost. While the data max size is 10 gb considering we have a full year of price data which can be large after processing. Hence the estimated cost for this comes down to 14.72USD which fall within the budget range. 
 
 # Cost
 
